@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmeerHamzaPro
+- 👋 Hi, I’m @AmeerHamzaPro Sr. Android Developer
 - 👀 I’m interested in learning latest technologies
 - 📫 How to reach me ...
 
