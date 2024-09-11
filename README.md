@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AmeerHamzaPro
 - 👀 I’m interested in learning latest technologies
-- 🌱 I’m currently learning android development with best practices
-- 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me ...
 
 <!---
