@@ -1,33 +1,18 @@
 <h1 align="center">Hi there, I'm Ameer Hamza 👋</h1>
-<h3 align="center" >Android Developer | Kotlin | Java | KMM | Jetpack Compose | Clean Architecture | Mobile ADs Networks | In-App Purchases | POS/Kiosk </h3> 
+<h3 align="center" >Android Developer | Kotlin | Java | Jetpack Compose | KMM </h3> 
 <br />
 
 ## 🧑‍💻 About Me:
-<div style="display: flex; justify-content: space-between;">
+ - Native Android Developer with expertise across **all areas** of Android development.
+ - Actively integrating **AI tools** to refine skills and apply AI solutions where applicable.
+ - Developed and launched over **50 apps**, with many live on the **Google Play Store**.
+ - Holds a Bachelor's degree in Computer Science along with multiple certifications in mobile development.
+ - Passionate about advancing into **Full-stack** mobile development, with a focus on **Android and iOS**.
+ - Proficient in **Jetpack Compose** for building modern, responsive UIs, and preparing for **Compose Multiplatform**.
+ - Actively learning and implementing **Kotlin Multiplatform Mobile (KMM)** to broaden cross-platform capabilities.
+ - Committed to **Clean Architecture** and modular design principles to ensure robust, scalable, and maintainable applications.
 
-  <div style="width: 80%; text-align: left; display: flex;">
-  <p>
-    I am a seasoned Android developer with over 5 years of experience, holding a bachelor's degree in Computer Science and multiple certifications in Android development. Eager to expand into full-stack mobile development (Android and iOS), I am committed to continuous learning to stay at the forefront of mobile technology.
-    <br /><br />
-    <b>Key Career Highlights:</b>
-    <br />
-     - Extensive App Development: Successfully developed over 50 apps, with the majority live on the Google Play Store.
-     - Jetpack Compose: Proficient in Jetpack Compose for modern UI development, positioning myself to leverage Compose Multiplatform effectively.
-  </p>
-  </div>
-  
-  <div style="width: 20%; text-align: right;>
-<p float="right">
-    <img src="https://github.com/user-attachments/assets/94365cdb-70b4-472d-b857-6af0e12f9805" alt="Kotlin" width="45%" />
-    <img src="https://github.com/user-attachments/assets/4ff3244b-984b-4bf1-ad56-225bc0c39b7d" alt="Java" width="45%" /> 
-</p>
-
-![Jetpack](https://github.com/user-attachments/assets/ec4b42da-1d5d-4cb3-98f5-56baf1dd0a84)
-
-  </div>
-</div>
-</br>
-
+<br />
 
 ## 🔗 Connect with me:
 
@@ -53,8 +38,8 @@
   <a href="https://www.instagram.com/beingameerhamzaofficial" target="_blank"> 
   <img src="https://github.com/user-attachments/assets/58be5762-0f2b-422d-94bc-a09ee76eb61e" alt="Instagram" height="50" style="margin:2px"> </a>
 </p>
-<br />
 
+<br />
 
 ## 🌐 Reach me:
 
@@ -82,35 +67,19 @@
 </p>
 <br />
 
-
-##  🌟  Interests:
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="width: 70%; text-align: left; display: flex;">I'm</div>
-  
-  <div style="width: 30%; text-align: right; display: flex;">
-  
-![AI](https://github.com/user-attachments/assets/fd8184d0-ad8a-46b6-94c5-1c04bb42211b)
-  </div>
-</div>
 <br />
 
+##  📜  Certifications:
+ - **Advanced Programming in Kotlin - Meta Certified**
+<a href="https://coursera.org/verify/T41SXZ27TSF0" target="_blank"> 
+ <img src="https://github.com/user-attachments/assets/1e1fae03-16fe-4bb8-b354-eef74ee98e57" alt="Advanced Programming in Kotlin - Meta Certified"  style="margin:2px"/></a>
 
-## 🎯  Future Goals:
-<div style="display: flex; justify-content: space-between;">
+<br /><br />
+ - **Jetpack Compose (UI in Android Studio) - Meta Certified**
+<a href="https://coursera.org/verify/D6FUNY9VLBQ4" target="_blank"> 
+ <img src="https://github.com/user-attachments/assets/5de8f6c8-a0b9-4905-91f0-89430cec1f93" alt="Jetpack Compose (UI in Android Studio) - Meta Certified"  style="margin:2px"/></a>
 
-  <div style="width: 70%; text-align: left; display: flex;">I'm</div>
-  
-  <div style="width: 30%; text-align: right;>
-  
-<p float="right">
-<img src="https://github.com/user-attachments/assets/c54c2b02-0e66-470e-b93b-c3e60d5031ea" alt="Java" width="45%" align="top" style="margin-top:25px" /> 
-    <img src="https://github.com/user-attachments/assets/3aa54eb0-c311-4a1f-953b-7bdac07a21bf" alt="Kotlin" width="45%" />
-</p>
 
-![Mobile Development](https://github.com/user-attachments/assets/470ed11c-69ad-4ecb-bf23-a1324001b390)
-  </div>
-</div>
 <br />
 
 
@@ -120,19 +89,19 @@
  <img src="https://github.com/user-attachments/assets/f420ba59-0090-432b-a3da-f011c181efbc" alt="Android Studio" height="50" style="margin:2px"/>
  </a>
  
-   <a href="https://www.android.com/" target="_blank"> 
+ <a href="https://www.android.com/" target="_blank"> 
  <img src="https://github.com/user-attachments/assets/02614b69-3340-45ac-a8ef-69967a5320fc" alt="Android" height="50" style="margin:2px"/>
  </a>
  
-  <a href="https://kotlinlang.org/" target="_blank"> 
+ <a href="https://kotlinlang.org/" target="_blank"> 
  <img src="https://github.com/user-attachments/assets/243cca5a-1a9a-4a11-a50b-74aafd86836d" alt="Kotlin" height="50" style="margin:2px"/>
  </a>
  
-  <a href="https://www.java.com/en/" target="_blank"> 
+ <a href="https://www.java.com/en/" target="_blank"> 
  <img src="https://github.com/user-attachments/assets/a0bc95c2-5b3a-4425-9e91-7272656e314e" alt="Java" height="50" style="margin:2px"/>
  </a>
  
-  <a href="https://material.io/" target="_blank"> 
+ <a href="https://material.io/" target="_blank"> 
  <img src="https://github.com/user-attachments/assets/38be5f29-62e3-47c6-8b6b-29cdc8623c67" alt="Material UI" height="50" style="margin:2px"/>
  </a>
  
@@ -144,11 +113,11 @@
  <img src="https://github.com/user-attachments/assets/27f2cc8b-fae9-4232-b078-c4d89bcd93e3" alt="Firebase" height="50" style="margin:2px"/>
  </a>
  
-  <a href="https://play.google.com/console" target="_blank"> 
+ <a href="https://play.google.com/console" target="_blank"> 
  <img src="https://github.com/user-attachments/assets/9c840860-507e-41b3-8be6-9bc5d22254b6" alt="Play Console" height="50" style="margin:2px"/>
  </a>
  
-   <a href="https://www.sqlite.org/" target="_blank"> 
+ <a href="https://www.sqlite.org/" target="_blank"> 
  <img src="https://github.com/user-attachments/assets/00e487c7-8303-44ea-9187-1ed9f930c971" alt="SQLite" height="50" style="margin:2px"/>
   </a>
  
@@ -180,16 +149,13 @@
  <img src="https://github.com/user-attachments/assets/72f3ed1c-99e1-493e-97c1-f09936243dfa" alt="Mata Audience Network" height="50" style="margin:2px"/>
  </a>
 </p>
+
+
 <br />
 
-
 ## 📊 Statistics:
-
-<div style="display: flex; justify-content: space-between;">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzapro\&layout=compact)
-
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzapro\&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerhamzapro\&show_icons=true\&theme=radical)
-</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ameerhamzapro&theme=radical)
