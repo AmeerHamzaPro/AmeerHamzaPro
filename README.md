@@ -3,14 +3,16 @@
 <br />
 
 ## 🧑‍💻 About Me:
- - Native Android Developer with expertise across **all areas** of Android development.
- - Actively integrating **AI tools** to refine skills and apply AI solutions where applicable.
- - Developed and launched over **50 apps**, with many live on the **Google Play Store**.
- - Holds a Bachelor's degree in Computer Science along with multiple certifications in mobile development.
- - Passionate about advancing into **Full-stack** mobile development, with a focus on **Android and iOS**.
- - Proficient in **Jetpack Compose** for building modern, responsive UIs, and preparing for **Compose Multiplatform**.
- - Actively learning and implementing **Kotlin Multiplatform Mobile (KMM)** to broaden cross-platform capabilities.
- - Committed to **Clean Architecture** and modular design principles to ensure robust, scalable, and maintainable applications.
+ - 📱 I'm currently a Native Android Developer with expertise across **all areas** of Android development.
+ - 🤖 Actively integrating **AI tools** to refine skills and apply AI solutions where applicable.
+ - 🚀 Developed and launched over **50 apps**, with many live on the **Google Play Store**.
+ - 🎓 Holds a Bachelor's degree in Computer Science along with multiple certifications in mobile development.
+ - 🌟 Passionate about advancing into **Full-stack** mobile development, with a focus on **Android and iOS**.
+ - 🖌️ Proficient in **Jetpack Compose** for building modern, responsive UIs, and preparing for **Compose Multiplatform**.
+ - 🔄 Actively learning and implementing **Kotlin Multiplatform Mobile (KMM)** to broaden cross-platform capabilities.
+ - 🧩 Committed to **Clean Architecture** and modular design principles to ensure robust, scalable, and maintainable applications.
+ - 🤝 Open to collaboration on innovative projects
+ - 💬 Ask me about anything.
 
 <br />
 
@@ -154,8 +156,10 @@
 <br />
 
 ## 📊 Statistics:
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzapro\&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerhamzapro\&show_icons=true\&theme=radical)
+ <p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ameerhamzapro&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzapro\&layout=compact)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerhamzapro\&show_icons=true\&theme=radical)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ameerhamzapro&theme=radical)
+</p>
