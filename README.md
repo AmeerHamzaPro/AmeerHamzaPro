@@ -3,6 +3,8 @@
 <br />
 
 ## 🧑‍💻 About Me:
+<p align="left" width="80%"> 
+ 
  - 📱 I'm currently a Native Android Developer with expertise across **all areas** of Android development.
  - 🤖 Actively integrating **AI tools** to refine skills and apply AI solutions where applicable.
  - 🚀 Developed and launched over **50 apps**, with many live on the **Google Play Store**.
@@ -13,6 +15,7 @@
  - 🧩 Committed to **Clean Architecture** and modular design principles to ensure robust, scalable, and maintainable applications.
  - 🤝 Open to collaboration on innovative projects
  - 💬 Ask me about anything.
+</p>
 
 <br />
 
