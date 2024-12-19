@@ -61,14 +61,14 @@
   <a href="https://stackoverflow.com/users/18735184/ameer-hamza" target="_blank"> 
   <img src="https://github.com/user-attachments/assets/09d8c3af-0cd5-4e75-bc89-555370301c82" alt="Stack Overlow" height="50"  style="margin:2px"/></a>
  
- <a href="https://www.fiverr.com/ameerhamzapro" target="_blank"> 
- <img src="https://github.com/user-attachments/assets/6cbc2c52-0aa9-4b20-bc29-fdf0dfcc9084" alt="Fiverr" height="50"  style="margin:2px"/></a>
+ [comment]: <> (<a href="https://www.fiverr.com/ameerhamzapro" target="_blank">)
+ [comment]: <> (<img src="https://github.com/user-attachments/assets/6cbc2c52-0aa9-4b20-bc29-fdf0dfcc9084" alt="Fiverr" height="50"  style="margin:2px"/></a>)
  
- <a href="https://www.upwork.com/freelancers/ameerhamzapro" target="_blank"> 
- <img src="https://github.com/user-attachments/assets/86870051-ab02-45fc-a490-6ee51931bc35" alt="UpWork" height="50"  style="margin:2px"/></a>
+ [comment]: <> (<a href="https://www.upwork.com/freelancers/ameerhamzapro" target="_blank">) 
+ [comment]: <> (<img src="https://github.com/user-attachments/assets/86870051-ab02-45fc-a490-6ee51931bc35" alt="UpWork" height="50"  style="margin:2px"/></a>)
  
- <a href="https://www.freelancer.com/get/AmeerHamzaPro" target="_blank"> 
- <img src="https://github.com/user-attachments/assets/de6f65e8-0f9f-4096-b7a8-b1f369d59188" alt="Freelancer" height="50"  style="margin:2px"/></a>
+ [comment]: <> (<a href="https://www.freelancer.com/get/AmeerHamzaPro" target="_blank">) 
+ [comment]: <> (<img src="https://github.com/user-attachments/assets/de6f65e8-0f9f-4096-b7a8-b1f369d59188" alt="Freelancer" height="50"  style="margin:2px"/></a>)
 </p>
 <br />
 
