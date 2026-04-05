@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ameer Hamza 👋</h1>
-<h3 align="center" >Android Developer | Kotlin | Java | Jetpack Compose | KMM </h3> 
+<h3 align="center" >Sr. Android Developer | Kotlin | Java | Jetpack Compose | KMM </h3> 
 <br />
 
 ## 🧑‍💻 About Me:
